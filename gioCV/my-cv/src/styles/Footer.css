@@ -1,0 +1,14 @@
+.toppy{
+    width: 100%;
+}
+.icons{
+    width: 26rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+img{
+    width: 4rem;
+    height: 4rem;
+}
